@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 import notify2
 from subprocess import check_output, STDOUT, CalledProcessError
